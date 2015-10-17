@@ -17,6 +17,7 @@
         <module>Singleton</module>
         <module>Observer</module>
         <module>Mediator</module>
+        <module>AbstractFactory</module>
     </modules>
 
     <build>
