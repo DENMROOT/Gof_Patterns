@@ -14,3 +14,5 @@ Example of code Patterns from GOF Patterns book
 - Observer
 - Mediator
 - AbstractFactory
+- Flyweight
+- Visitor

@@ -19,6 +19,7 @@
         <module>Mediator</module>
         <module>AbstractFactory</module>
         <module>Flyweight</module>
+        <module>Visitor</module>
     </modules>
 
     <build>
