@@ -18,6 +18,7 @@
         <module>Observer</module>
         <module>Mediator</module>
         <module>AbstractFactory</module>
+        <module>Flyweight</module>
     </modules>
 
     <build>
