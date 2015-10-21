@@ -20,6 +20,8 @@
         <module>AbstractFactory</module>
         <module>Flyweight</module>
         <module>Visitor</module>
+        <module>State</module>
+        <module>Interpreter</module>
     </modules>
 
     <build>
