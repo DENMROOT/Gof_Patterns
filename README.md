@@ -16,3 +16,7 @@ Example of code Patterns from GOF Patterns book
 - AbstractFactory
 - Flyweight
 - Visitor
+- Chain of Responsibility
+- Interpreter
+- State
+- Memento
