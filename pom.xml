@@ -23,7 +23,6 @@
         <module>State</module>
         <module>Interpreter</module>
         <module>ChainOfResponsibility</module>
-        <module>Factory</module>
         <module>Memento</module>
     </modules>
 
